@@ -1,4 +1,5 @@
 # Default ignored files
-/venv/
-/myvenv/
+venv/
+myvenv/
 *.docx
+_pycache_
